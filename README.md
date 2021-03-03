@@ -20,7 +20,7 @@ This project uses the sakila database in combination with various window functio
 - [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 ## Launch
-Download the sakila database *sakila_data.sql* and import it to your SQL Client Software. Using your web host, create a new database for the downloaded files. Open the sakila schema file in your SQL client software and execute the code. Lastly, open the sakila data file in your SQL client software and execute the code to create the database.
+Download the sakila database *sakila_data.sql* and Sales_Orders database *Sales_Orders.sql*. Import them to your SQL Client Software. Using your web host, create a new database for the downloaded files. Open the sakila schema file in your SQL client software and execute the code. Lastly, open the sakila data file in your SQL client software and execute the code to create the database.
 
 Your SQL code is now ready to run.
 
